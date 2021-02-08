@@ -1,3 +1,3 @@
-# subreddit-images-downloader
+# media-downloader
 ## Requirements
 Jsoup
